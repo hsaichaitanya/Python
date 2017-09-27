@@ -1,0 +1,3 @@
+In order to do this, we will need to know even more about where the items might be when we go to look for them in the collection.
+If every item is where it should be, then the search can use a single comparison to discover the presence of an item.
+We will see, however, that this is typically not the case.
